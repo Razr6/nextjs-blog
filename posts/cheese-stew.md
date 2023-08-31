@@ -1,5 +1,5 @@
 ---
-title: 'Cheese Stew - it's the future'
+title: 'Cheese Stew - I have seen the future'
 date: '2020-31-07'
 ---
 
